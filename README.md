@@ -63,3 +63,6 @@ I love building **scalable AI applications**, working with **LLMs**, and explori
   <img src="https://img.shields.io/badge/CNNs-FF0000?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/RNNs-4169E1?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
+### 🐍 GitHub Contribution Snake
+
+![Snake animation](https://github.com/Vinay889900/Vinay889900/raw/main/git-snake.svg)
