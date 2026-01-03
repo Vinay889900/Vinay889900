@@ -4,7 +4,6 @@ Hi there! I'm **Uppu Vinay Kumar**, a passionate **Generative AI Developer**, **
 I love building **scalable AI applications**, working with **LLMs**, and exploring how **AI + Cloud** can solve real-world problems. 🚀  
 
 ---
-
 ## ⚡ Tech Stack  
 
 ### 🖥 Programming & Tools  
